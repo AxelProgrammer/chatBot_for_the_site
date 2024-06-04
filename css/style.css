@@ -138,3 +138,13 @@ ul.chatbox li:nth-child(2n) {
   font-weight: 600;
   color: #1976d2;
 }
+
+.messageElement_for_file {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon_for_file {
+  width: 60px;
+  height: 60px;
+}

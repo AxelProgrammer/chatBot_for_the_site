@@ -27,7 +27,8 @@ class DB
         foreach ($result as $res) {
             $setConfig[$res['id']] = array(
                 "variants" => explode("/", $res['variant']),
-                "answer" => $res['result']
+                "answer" => $res['result'],
+                "type" => $res['type']
             );
         }
         $json_data = json_encode($setConfig);

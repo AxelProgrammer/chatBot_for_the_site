@@ -1,11 +1,11 @@
 {
     "recommendations": [
         // Расширения, которые необходимы для комфортной работы.
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "eamodio.gitlens",
-        "DEVSENSE.phptools-vscode",
-        "xdebug.php-debug",
-        "brapifra.phpserver"
+        "dbaeumer.vscode-eslint", // инструмент, помогающий анализировать написанный на JavaScript код
+        "esbenp.prettier-vscode", // обеспечивает единообразие стиля
+        "eamodio.gitlens", // GitLens улучшает работу с Git в VS Code
+        "DEVSENSE.phptools-vscode", //  полная интеграция для разработки на языке PHP
+        "brapifra.phpserver", // лёгкий веб-сервер для разработки PHP-приложений 
+        "shd101wyy.markdown-preview-enhanced" // расширение для работы с фалами README.md
     ]
 }
