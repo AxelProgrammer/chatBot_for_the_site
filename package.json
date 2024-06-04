@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "dotenv-webpack": "^8.1.0",
+    "openai": "^4.0.0"
+  },
+  "sameAs": [
+    "https://github.com/AxelProgrammer"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "89892714830",
+      "contactType": "89892714830",
+      "areaServed": "Moscow"
+    }
+  ],
+  "author": "Axel",
+  "name": "nova",
+  "version": "1.0.0",
+  "main": "index.php",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "description": ""
+}

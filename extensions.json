@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        // Расширения, которые необходимы для комфортной работы.
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "DEVSENSE.phptools-vscode",
+        "xdebug.php-debug",
+        "brapifra.phpserver"
+    ]
+}
